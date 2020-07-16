@@ -51,13 +51,13 @@ const config = {
     {
       app: 'live',
       mode: 'push',
-      edge: 'rtmp://a.rtmp.youtube.com/live2/x1ke-8dkm-68x4-6yet',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/x1ke-8dkm-68x4-xxxxxxxx',
 	  appendName: false
     },
 	{
       app: 'live',
       mode: 'push',
-      edge: 'rtmp://live-sin.twitch.tv/app/live_93576027_qs93bJZ0YW1dMFgGiOLxazOoZrDyFF',
+      edge: 'rtmp://live-sin.twitch.tv/app/live_93576027_qs93bJZ0YW1dMFxxxxxxxx',
 	  appendName: false
     }
   ]
