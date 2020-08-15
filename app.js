@@ -65,6 +65,13 @@ const config = {
       mode: 'push',
       edge: 'rtmp://a.rtmp.youtube.com/live2/06yz-es1c-jp0j-hq4a-2v0m,
 	  appendName: false
+    },
+	  
+	{
+      app: 'live',
+      mode: 'push',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/x1ke-8dkm-68x4-6yet,
+	  appendName: false
     }
   ]
   },
