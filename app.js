@@ -51,13 +51,19 @@ const config = {
     {
       app: 'live',
       mode: 'push',
-      edge: 'rtmp://a.rtmp.youtube.com/live2/x1ke-8dkm-68x4-xxxxxxxx',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/s05a-qy5w-99wt-rcd9-49yr',
 	  appendName: false
     },
 	{
       app: 'live',
       mode: 'push',
-      edge: 'rtmp://live-sin.twitch.tv/app/live_93576027_qs93bJZ0YW1dMFxxxxxxxx',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/8brg-qj6w-g55k-5zkt',
+	  appendName: false
+    },
+	{
+      app: 'live',
+      mode: 'push',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/06yz-es1c-jp0j-hq4a-2v0m,
 	  appendName: false
     }
   ]
