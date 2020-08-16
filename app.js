@@ -63,14 +63,21 @@ const config = {
 	{
       app: 'live',
       mode: 'push',
-      edge: 'rtmp://a.rtmp.youtube.com/live2/06yz-es1c-jp0j-hq4a-2v0m',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/6tq7-rthu-3w15-4muy-chpw',
 	  appendName: false
     },
 	  
 	{
       app: 'live',
       mode: 'push',
-      edge: 'rtmp://a.rtmp.youtube.com/live2/x1ke-8dkm-68x4-6yet',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/2up5-pfad-egf7-m3xm-brxy',
+	  appendName: false
+    },
+	  
+	{
+      app: 'live',
+      mode: 'push',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/06yz-es1c-jp0j-hq4a-2v0m',
 	  appendName: false
     }
   ]
