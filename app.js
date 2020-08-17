@@ -84,7 +84,7 @@ const config = {
 	{
       app: 'live',
       mode: 'push',
-      edge: 'rtmp://a.rtmp.youtube.com/live2/15p2-r2ev-25yt-jhxm-cqe2',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/4fmg-sky3-6xfc-27mz-6hrg',
 	  appendName: false
     },
 	 
