@@ -51,47 +51,82 @@ const config = {
     {
       app: 'live',
       mode: 'push',
-      edge: 'rtmp://a.rtmp.youtube.com/live2/s05a-qy5w-99wt-rcd9-49yr',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/a0xb-xh58-r2b9-sy46-2er2',
 	  appendName: false
     },
 	{
       app: 'live',
       mode: 'push',
-      edge: 'rtmp://a.rtmp.youtube.com/live2/8brg-qj6w-g55k-5zkt',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/c32p-pq7e-6gmk-5t5a-8g45',
 	  appendName: false
     },
 	{
       app: 'live',
       mode: 'push',
-      edge: 'rtmp://a.rtmp.youtube.com/live2/6tq7-rthu-3w15-4muy-chpw',
-	  appendName: false
-    },
-	  
-	{
-      app: 'live',
-      mode: 'push',
-      edge: 'rtmp://a.rtmp.youtube.com/live2/2up5-pfad-egf7-m3xm-brxy',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/mpdz-7at5-wxu7-rsaq-ehyc',
 	  appendName: false
     },
 	  
 	{
       app: 'live',
       mode: 'push',
-      edge: 'rtmp://a.rtmp.youtube.com/live2/06yz-es1c-jp0j-hq4a-2v0m',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/0x26-a1f0-kuvw-93q7-8ydt',
 	  appendName: false
     },
 	  
 	{
       app: 'live',
       mode: 'push',
-      edge: 'rtmp://a.rtmp.youtube.com/live2/zvjv-cuy0-srvf-kvjf-3hra',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/rk2-grs8-4sqq-u3by-4f5v',
 	  appendName: false
     },
-	  //below is calonpintar
+	  
 	{
       app: 'live',
       mode: 'push',
-      edge: 'rtmp://a.rtmp.youtube.com/live2/x1ke-8dkm-68x4-6yet',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/15p2-r2ev-25yt-jhxm-cqe2',
+	  appendName: false
+    },
+	 
+	{
+      app: 'live',
+      mode: 'push',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/w6s9-qdbd-hyj1-2a5y-8m1c',
+	  appendName: false
+    },
+	 
+	{
+      app: 'live',
+      mode: 'push',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/xy96-sfas-w8jr-a3hp-cpbg',
+	  appendName: false
+    },
+	 
+	{
+      app: 'live',
+      mode: 'push',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/hks5-9vck-fj7d-dj2q-7272',
+	  appendName: false
+    },
+	 
+	{
+      app: 'live',
+      mode: 'push',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/j879-ud7k-0sm9-s4va-6v9p',
+	  appendName: false
+    },
+	 
+	{
+      app: 'live',
+      mode: 'push',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/mbpf-2wf7-ubz6-7w4v',
+	  appendName: false
+    },
+	 
+	{
+      app: 'live',
+      mode: 'push',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/6fjd-d7ct-mtxa-kky7-d0t0',
 	  appendName: false
     }
   ]
