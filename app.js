@@ -57,7 +57,7 @@ const config = {
 	{
       app: 'live',
       mode: 'push',
-      edge: 'rtmp://a.rtmp.youtube.com/live2/c32p-pq7e-6gmk-5t5a-8g45',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/050r-week-8evz-xpv8-3qft',
 	  appendName: false
     },
 	{
@@ -127,6 +127,34 @@ const config = {
       app: 'live',
       mode: 'push',
       edge: 'rtmp://a.rtmp.youtube.com/live2/6fjd-d7ct-mtxa-kky7-d0t0',
+	  appendName: false
+    },
+	 
+	{
+      app: 'live',
+      mode: 'push',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/66x0-b9wy-6ddq-jgae-625j',
+	  appendName: false
+    },
+	 
+	{
+      app: 'live',
+      mode: 'push',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/9wax-mfdk-c5jy-2xg6-9a30',
+	  appendName: false
+    },
+	 
+	{
+      app: 'live',
+      mode: 'push',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/ts6b-6cv3-e3ss-c7q6-1t2y',
+	  appendName: false
+    },
+	 
+	{
+      app: 'live',
+      mode: 'push',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/fhab-9bwu-3aqx-z1uc-724x',
 	  appendName: false
     }
   ]
