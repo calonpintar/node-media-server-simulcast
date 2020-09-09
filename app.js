@@ -59,6 +59,12 @@ const config = {
       mode: 'push',
       edge: 'rtmp://a.rtmp.youtube.com/live2/tzka-wqkx-b139-52ys-69e9',       //genUmkm
 	  appendName: false
+    },
+	{
+      app: 'live',
+      mode: 'push',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/x86s-s25q-88py-d38m-a1va',       //pertamina
+	  appendName: false
     }
   ]
   },
