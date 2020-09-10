@@ -65,6 +65,12 @@ const config = {
       mode: 'push',
       edge: 'rtmp://a.rtmp.youtube.com/live2/x86s-s25q-88py-d38m-a1va',       //pertamina
 	  appendName: false
+    },
+	{
+      app: 'live',
+      mode: 'push',
+      edge: 'rtmp://a.rtmp.youtube.com/live2/x1ke-8dkm-68x4-6yet',       //calonpintar
+	  appendName: false
     }
   ]
   },
